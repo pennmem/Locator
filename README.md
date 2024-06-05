@@ -17,7 +17,7 @@ like:
 
   ```python
   from Locator import Locator
-  prLocator(None).hippocampus_regions
+  Locator(None).hippocampus_regions
   ```
      
 Available region lists are (note, some are subsets of others!):
